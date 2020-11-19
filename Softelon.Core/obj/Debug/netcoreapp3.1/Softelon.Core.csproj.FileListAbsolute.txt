@@ -1,0 +1,9 @@
+/Users/nedimozkara/Projects/Softelon.Core/Softelon.Core/bin/Debug/netcoreapp3.1/Softelon.Core.deps.json
+/Users/nedimozkara/Projects/Softelon.Core/Softelon.Core/bin/Debug/netcoreapp3.1/Softelon.Core.dll
+/Users/nedimozkara/Projects/Softelon.Core/Softelon.Core/bin/Debug/netcoreapp3.1/Softelon.Core.pdb
+/Users/nedimozkara/Projects/Softelon.Core/Softelon.Core/obj/Debug/netcoreapp3.1/Softelon.Core.csprojAssemblyReference.cache
+/Users/nedimozkara/Projects/Softelon.Core/Softelon.Core/obj/Debug/netcoreapp3.1/Softelon.Core.AssemblyInfoInputs.cache
+/Users/nedimozkara/Projects/Softelon.Core/Softelon.Core/obj/Debug/netcoreapp3.1/Softelon.Core.AssemblyInfo.cs
+/Users/nedimozkara/Projects/Softelon.Core/Softelon.Core/obj/Debug/netcoreapp3.1/Softelon.Core.csproj.CoreCompileInputs.cache
+/Users/nedimozkara/Projects/Softelon.Core/Softelon.Core/obj/Debug/netcoreapp3.1/Softelon.Core.dll
+/Users/nedimozkara/Projects/Softelon.Core/Softelon.Core/obj/Debug/netcoreapp3.1/Softelon.Core.pdb
