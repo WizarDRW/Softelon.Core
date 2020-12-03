@@ -55,7 +55,7 @@ namespace Softelon.Core.Utilities.Security.Jwt
         {
             var claims = new List<Claim>();
             claims.AddNameIdentifier(user.ID.ToString());
-            claims.AddUserName(user.UserName);
+            claims.AddUserName(user.Email);
             claims.AddName($"{user.FirstName} {user.LastName}");
             claims.AddRoles(operationClaims.Select(c => c.Name).ToArray());
             return claims;

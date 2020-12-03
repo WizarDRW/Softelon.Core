@@ -1,19 +1,21 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workbench ActiveDocument="Softelon.Core/Utilities/Security/Jwt/JwtHelper.cs">
     <Files>
-      <File FileName="Softelon.Core/Utilities/Security/Jwt/JwtHelper.cs" Line="5" Column="17" />
+      <File FileName="Softelon.Core/Utilities/Security/Jwt/JwtHelper.cs" Line="56" Column="44" />
       <File FileName="Softelon.Core/Extension/ClaimExtentions.cs" />
       <File FileName="Softelon.Core/Extension/ExpectationResultConverter.cs" />
       <File FileName="Softelon.Core/DataAccess/DapperRepositoryBase.cs" />
       <File FileName="Softelon.Core/DataAccess/IRepository.cs" />
       <File FileName="Softelon.Core/Context/DapperContext.cs" />
-      <File FileName="Softelon.Core/Utilities/Security/Jwt/TokenOptions.cs" />
+      <File FileName="Softelon.Core/Utilities/Security/Jwt/TokenOptions.cs" Line="1" Column="1" />
+      <File FileName="Softelon.Core/Entities/Concrete/User.cs" Line="8" Column="45" />
+      <File FileName="Softelon.Core/Utilities/Security/ITokenHelper.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Softelon.Core" expanded="True">
-            <Node name="Softelon.Core" expanded="True" selected="True">
+            <Node name="Softelon.Core" expanded="True">
               <Node name="Context" expanded="True" />
               <Node name="DataAccess" expanded="True" />
               <Node name="Entities" expanded="True">
@@ -24,15 +26,14 @@
                 <Node name="Security" expanded="True">
                   <Node name="Encryption" expanded="True" />
                   <Node name="Hashing" expanded="True" />
-                  <Node name="Jwt" expanded="True" />
+                  <Node name="Jwt" expanded="True">
+                    <Node name="JwtHelper.cs" selected="True" />
+                  </Node>
                 </Node>
               </Node>
             </Node>
           </Node>
         </State>
-      </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
